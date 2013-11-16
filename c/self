@@ -1,0 +1,28 @@
+2.1 Review
+a) main
+b) {,}
+c) ;
+d) <stdio.h>
+e) newline
+f) scanf
+g) %
+h) destructive
+i) nondestructive
+j) if
+2.2 Review
+a) false
+b) false 
+c) true
+d) true
+e) true
+f) false becasue C is casesensitive
+g) true
+h) false 
+i) true
+j) false
+k) true
+l) false because newline
+2.3 Review
+a) int c, thisVariable, q76354, number
+b) printf("Enter am integer: ");
+c) scanf("%d", &a);
